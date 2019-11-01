@@ -1,0 +1,9 @@
+configuration {
+  show-icons:         false;
+  cycle:              true;
+  hide-scrollbar:     true;
+  disable-history:    false;
+  modi:               "drun";
+  display-drun:       "アプリケーション";
+  columns: 2;
+}
